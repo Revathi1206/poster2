@@ -1,0 +1,12 @@
+body {
+  background: url("poster2.jpg");
+  height: 1200px;
+}
+img {
+  position: absolute;
+  top: 20%;
+  left: 7%;
+  height: 200px;
+  width: 200px;
+  border-radius: 115px;
+}
